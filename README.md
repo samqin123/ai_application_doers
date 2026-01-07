@@ -32,9 +32,9 @@
   - mcps: MCP工具集
   - skills: 各类技能实践
 
-- **claude-scientific-skills** - Claude科学技能模块
+- **MCP&SKILLS/skills/claude-scientific-skills** - Claude科学技能模块
   - 从外部仓库集成的Claude科学技能相关工具和资源
-  - 该模块通过git子模块方式集成
+  - 该模块通过git子模块方式集成在skills目录下
 
 ## 仓库目标
 

@@ -1,3 +1,6 @@
-[submodule "claude-scientific-skills"]
-	path = claude-scientific-skills
+[submodule "MCP"]
+	path = MCP
+	url = git@github.com:K-Dense-AI/claude-scientific-skills.git
+[submodule "MCP&SKILLS/skills/claude-scientific-skills"]
+	path = MCP&SKILLS/skills/claude-scientific-skills
 	url = git@github.com:K-Dense-AI/claude-scientific-skills.git
