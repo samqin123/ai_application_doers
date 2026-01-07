@@ -32,6 +32,10 @@
   - mcps: MCP工具集
   - skills: 各类技能实践
 
+- **claude-scientific-skills** - Claude科学技能模块
+  - 从外部仓库集成的Claude科学技能相关工具和资源
+  - 该模块通过git子模块方式集成
+
 ## 仓库目标
 
 1. 记录AI技术的实际应用效果
